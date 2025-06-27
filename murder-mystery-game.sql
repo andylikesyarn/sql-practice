@@ -51,7 +51,8 @@ WHERE (person_id=14887
 
 --16371	I saw the murder happen, and I recognized the killer from my gym when I was working out last week on January the 9th.
 
-
+--51739	Tushar Chandra	664760	312	Phi St	137882671	664760	21	71	black	black	male	4H42WR	Nissan	Altima
+--67318	Jeremy Bowers	423327	530	Washington Pl, Apt 3A	871539279	423327	30	70	brown	brown	male	0H42W2	Chevrolet	Spark LS
 
 
 
